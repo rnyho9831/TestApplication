@@ -1,0 +1,5 @@
+* Command Line Cheat Sheet * 
+clear = clears the screen
+cd = change directory (aka folder)
+ls = list folder or file contents
+mkdir [name] = makes folder
