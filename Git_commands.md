@@ -1,4 +1,5 @@
 Git Commands via command line terminal
+
 $ git status - shows where I'm at.  If you're ahead, you need to push.  If you're behind, you need to "pull"
 
 $ git checkout master - puts me on the master branch of the repo.
