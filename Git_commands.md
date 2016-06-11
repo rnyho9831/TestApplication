@@ -1,8 +1,8 @@
 Git Commands via command line terminal
 
-*git status* - shows where I'm at.  If you're ahead, you need to push.  If you're behind, you need to "pull"
+*git status* - shows where I'm at.  If you're ahead, you need to push.  If you're behind, you need to "pull" 
 
-*git checkout master* - puts me on the master branch of the repo.
+*git checkout master* - puts me on the master branch of the repo. If you want to be on your branch, subsitute master for your branch name. The remaining instructions will be in refrence to working on the master branch.
 
 *git pull origin master* - pulls all of the code on that branch of the repo (in this case "master")
 -- make changes to file, one at a time.
@@ -16,10 +16,10 @@ NOTE *git add ** - only ADDS all files, not removes
 
 *git status* -- run again to make sure that there is nothing to commit.  Ensures you're up-to-date with master branch
 
+-----------------------------------------------------------------
+*git rm "ex1/ex1.rb"*--unix command to remove files "rm"
 
-*git rm "ex1/ex1.rb"*--unix command to remove
+*git add "ex1/ex1-rn.rb"* - adds file to repository 
 
-*git add "ex1/ex1-rn.rb"* - adds file to repository
-
-*git add * **- only ADDS all files, not removes
+*git add **- only ADDS all files, not removes
 
