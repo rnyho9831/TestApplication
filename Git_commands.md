@@ -17,6 +17,9 @@ NOTE *git add ** - only ADDS all files, not removes
 *git status* -- run again to make sure that there is nothing to commit.  Ensures you're up-to-date with master branch
 
 
-$ git rm "ex1/ex1.rb"  --unix command to remove
-$ git add "ex1/ex1-rn.rb" - adds file to repository
-$ git add * - only ADDS all files, not removes
+*git rm "ex1/ex1.rb"*--unix command to remove
+
+*git add "ex1/ex1-rn.rb"* - adds file to repository
+
+*git add * **- only ADDS all files, not removes
+
