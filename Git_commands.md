@@ -1,4 +1,6 @@
-Git Commands via command line terminal
+H1The following information is the basic steps to working within our repo at the command line.H1
+
+
 
 *git status* - shows where I'm at.  If you're ahead, you need to push.  If you're behind, you need to "pull" 
 
