@@ -7,4 +7,5 @@ weight = gets.chomp
 print "How about your vertical jump?"
 jump = gets.chomp
 
-puts "So, you're #{age} old, #{height} tall and #{weight} heavy and vertical #{jump}."
+puts "So test, you're #{age} old, #{height} tall and #{weight} heavy and vertical #{jump}."
+
